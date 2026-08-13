@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Array
 |  |
 | ------- |
@@ -45,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0176-second-highest-salary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
