@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0547-number-of-provinces](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -60,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
