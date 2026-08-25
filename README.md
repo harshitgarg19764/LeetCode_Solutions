@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1137-n-th-tribonacci-number](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0127-word-ladder) |
+## Math
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
