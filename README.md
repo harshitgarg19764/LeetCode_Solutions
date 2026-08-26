@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0733-flood-fill](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [1137-n-th-tribonacci-number](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
