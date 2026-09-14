@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0733-flood-fill](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0733-flood-fill) |
@@ -96,9 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0078-subsets) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
