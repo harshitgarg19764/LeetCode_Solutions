@@ -79,10 +79,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [1137-n-th-tribonacci-number](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
