@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0733-flood-fill](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/harshitgarg19764/LeetCode_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
